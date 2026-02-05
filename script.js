@@ -1,5 +1,6 @@
 const translations = {
     en: {
+        logo: "AI Assistant Setup Service",
         badge: "Available in Manila",
         headline: "Turn your PC into a real-life JARVIS.",
         subheadline: "Stop using basic ChatGPT. Transform your idle computer into a high-end private AI assistant.",
@@ -22,6 +23,7 @@ const translations = {
         contact_sub: "Got a spare laptop? Let’s turn it into the smartest thing you own."
     },
     cn: {
+        logo: "AI私人助理安装服务",
         badge: "仅限马尼拉地区",
         headline: "把闲置电脑变成现实版“钢铁侠贾维斯”",
         subheadline: "别让你的电脑吃灰了。升级为高性能私人 AI 助理，远超普通网页版 ChatGPT。",
@@ -44,6 +46,7 @@ const translations = {
         contact_sub: "想拥有一台真正懂你的 AI 电脑？私信预约时间。",
     },
     tl: {
+        logo: "Serbisyo ng AI Assistant",
         badge: "Available sa Manila",
         headline: "Gawin nating 'JARVIS' ang PC mo!",
         subheadline: "Sawang-sawa ka na ba sa basic na ChatGPT? Transform natin ang idle computer mo into a powerful AI assistant.",
